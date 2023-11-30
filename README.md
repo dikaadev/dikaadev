@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dikaadev
-- 👀 I’m interested in Frontend Engineering, Autonomous Engineering, Data Science and Backend DevOps Engineering
+- 👀 I’m interested in Frontend Engineering and Autonomous Engineering
 - 🌱 I’m currently learning C++, Flutter, Mathematics, and Statistic
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 You can reach me with sending email to mahardikaa.dev@gmail.com
